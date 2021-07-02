@@ -1,0 +1,12 @@
+h1{
+    color: aqua;
+    background-color: darkgray;
+    text-align: center;    
+}
+
+p{
+    color:black;
+    text-align: justify;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+}
